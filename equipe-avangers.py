@@ -1,1 +1,0 @@
-from     ( "A equipe ganhou novos membros: Homem-Aranha e Chang-Chi" )
