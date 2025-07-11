@@ -1,1 +1,0 @@
-from     ( "Equipe inicial formada" )
