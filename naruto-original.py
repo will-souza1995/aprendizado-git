@@ -1,0 +1,1 @@
+from ("Esse é o Naruto principal e não sabe fazer jutsus")
