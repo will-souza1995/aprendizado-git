@@ -1,1 +1,1 @@
-from ("Esse é o Naruto principal e não sabe fazer jutsus")
+from ("Esse é o Naruto principal, agora sabe fazer rasengan")
